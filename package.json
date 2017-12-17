@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@types/graphql": "^0.11.7",
+    "@types/requirejs": "^2.1.31"
+  }
+}
